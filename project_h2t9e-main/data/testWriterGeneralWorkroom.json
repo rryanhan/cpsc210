@@ -1,0 +1,17 @@
+{
+    "albums": [
+        {
+            "artist": "Young Nudy",
+            "name": "Gumbo",
+            "rating": 4.5,
+            "genre": "Rap"
+        },
+        {
+            "artist": "J Dilla",
+            "name": "Donuts",
+            "rating": 5,
+            "genre": "Rap"
+        }
+    ],
+    "name": "Ronald"
+}

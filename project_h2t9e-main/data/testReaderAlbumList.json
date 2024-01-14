@@ -1,0 +1,17 @@
+{
+  "albums": [
+    {
+      "artist": "Logic",
+      "name": "Vinyl Days",
+      "rating": 5,
+      "genre": "Rap"
+    },
+    {
+      "artist": "Playboi Carti",
+      "name": "Whole Lotta Red",
+      "rating": 4.5,
+      "genre": "Rap"
+    }
+  ],
+  "name": "Carti Gangalang"
+}

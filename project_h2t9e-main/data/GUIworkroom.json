@@ -1,0 +1,29 @@
+{
+    "albums": [
+        {
+            "artist": "LUCKI",
+            "name": "Freewave 2",
+            "rating": 4.5,
+            "genre": "Rap"
+        },
+        {
+            "artist": "42 Dugg",
+            "name": "Last Ones Left",
+            "rating": 4.5,
+            "genre": "Rap"
+        },
+        {
+            "artist": "BROCKHAMPTON",
+            "name": "The Family",
+            "rating": 4.5,
+            "genre": "Rap"
+        },
+        {
+            "artist": "death's dynamic shroud",
+            "name": "Darklife",
+            "rating": 4.5,
+            "genre": "Synthwave"
+        }
+    ],
+    "name": "Album list"
+}
